@@ -1,0 +1,36 @@
+body {background: lightblue;}
+
+
+
+#kader {
+	width: 600px;
+	height: 600px;
+	background: white;
+	margin: 100px auto 50px auto;
+	padding: 25px;
+
+
+}
+table, th, td {
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+}
+table {
+
+}
+tr {
+
+}
+th {
+	background: blue;
+	color: white;
+
+}
+td {
+
+}
+tr:nth-child(even) {
+	background: lightgrey;
+}
+

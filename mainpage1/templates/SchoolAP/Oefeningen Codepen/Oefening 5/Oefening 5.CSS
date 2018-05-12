@@ -1,0 +1,61 @@
+body {
+  background: hotpink;
+  width: 600px;
+  margin: 25px auto;
+  font-family: helvetica;
+}
+
+header, main, footer {
+  background: white;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+h1, h2, h3, h5 {
+  font-size: 1.4em;
+  margin-bottom: 10px;}
+
+h2 {
+  font-size: 1.2em;
+}
+
+h3, h5 {
+  font-size: 1em;
+}
+
+p, ul {
+  font-size: 0.95em;
+  line-height: 1.4em;
+  margin-bottom: 1em;}
+
+.contact p {
+  margin-bottom: 0;
+}
+
+img {
+  width: 200px;
+  float: right;}
+
+nav a { 
+  color: deeppink;
+  font-size: 0.95em;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+.contact {
+  float: right;
+}
+
+.sitemap ul {
+  list-style: none;
+  margin-left: -18px;
+}
+
+.sitemap ul li a {
+  color: hotpink;
+  text-decoration: none;
+}

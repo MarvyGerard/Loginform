@@ -1,0 +1,78 @@
+body {
+	background: orange;
+	width: 850px;
+	margin: 50px auto 0 auto;
+	font-size: 100%;
+	font-family: 'Source Sans Pro', sans-serif;
+	background-image: url("hair.jpg");
+}
+
+
+.header, .main, .footer {
+	background: white;
+	padding: 30px;
+	margin-bottom: 25px;
+	opacity: 0.85;
+	border-radius: 4px;
+}
+
+img {
+	float: right;
+	padding-left: 15px;
+	padding-bottom: 10px;
+}
+
+.footer {
+	clear: both;
+	overflow: auto;
+}
+
+.services {
+	width: 350px;
+	float: left;
+}
+
+.salons {
+	width: 350px;
+	float: right;
+	text-align: right;
+}
+
+h1 {
+	font-size: 2.6em;
+	font-weight: 900;
+}
+
+nav {
+	float: right;
+	margin-top: -10px;
+}
+
+nav a {
+	padding-left: 5px;
+}
+
+h2 {
+	font-size: 1.4em;
+	margin-bottom: 15px;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 1.2em;
+	margin-bottom: 15px;
+	font-weight: 700;
+}
+
+p {
+	font-size: 1.2em;
+	margin-bottom: 15px;
+}
+
+ul li {
+	line-height: 1.6em;
+}
+
+a {
+	color: darkcyan;
+}

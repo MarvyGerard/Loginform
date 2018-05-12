@@ -1,0 +1,104 @@
+body{
+	font-family: helvetica;
+	
+}
+nav{
+	margin-top: 200px;
+	margin-left: 250px;
+	margin-right: 250px;
+	border:2px solid black;
+	box-shadow: 1.5px 1.5px 1.5px black;
+	
+}
+nav a{
+	display: inline-block;
+	width: 240px;
+	height: 120px;
+	margin-left: 350px;
+	margin-right: 100px;
+	margin-top: 75px;
+	margin-bottom: 75px;
+}
+.Architectuur{
+	background-image: url(eamesarch.png);
+	height: 120px;
+	width: 230px;
+	background-color: black;	
+}
+.Tentoonstellingen{
+	background-image: url(eamestent.png);
+	height: 120px;
+	width: 230px;
+	background-color: black;
+	margin-left: -90px;
+
+}
+.FilmenMedia{
+	background-image: url(eamesfilmmedia.png);
+	height: 120px;
+	width: 230px;
+	background-color: black;
+	margin-left: -90px;
+}
+.Stoelen{
+	background-image: url(eamesstoelen.png);
+	height: 120px;
+	width: 230px;
+	background-color: black;
+	margin-left: -90px;
+}
+.Bergruimteenbureau{
+	background-image: url(eameskastenbureau.png);
+	height: 120px;
+	width: 230px;
+	background-color: black;
+}
+.Speelgoed{
+	background-image: url(eamesspeelgoed.png);
+	height: 120px;
+	width: 230px;
+	background-color: black;
+	margin-left: -90px;
+}
+.Andere{
+	background-image: url(eamesandere.png);
+	height: 120px;
+	width: 230px;
+	background-color: black;
+	margin-left: -90px;
+}
+
+.BergruimteenBureau{
+	background-image: url(eameskastenbureau.png);
+	height: 120px;
+	width: 230px;
+	background-color: black;
+}
+
+.TafelsenSchermen{
+	background-image: url(eamestafelsschermen.png);
+	height: 120px;
+	width: 230px;
+	background-color: black;
+	margin-left: -90px;	
+}
+
+h2:hover{
+	color: yellow;
+	transition-duration: 2s;
+	}
+
+h2{
+	text-decoration: none;
+	color: white;
+	text-transform:  uppercase;
+	font-size: 0.7em;
+	padding-top: 110px;
+	padding-bottom: 2px;
+
+}
+
+a{
+	text-decoration: none;
+	display: inline-block; margin-right: 50px;
+}

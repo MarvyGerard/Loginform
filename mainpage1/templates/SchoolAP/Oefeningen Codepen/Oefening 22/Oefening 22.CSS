@@ -1,0 +1,43 @@
+body {
+  background-color: yellow;
+}
+
+.wild-beasts {
+  border: 10px solid #E6344C;
+  color: #003E79;
+  font-family: "helvetica neue";
+  width: 600px;
+  margin: 50px auto;
+  padding: 15px;
+  position: relative;
+  box-shadow: 10px 10px 0px #69C0B8, 20px 20px 0px #986399, 30px 30px 0px #003E79;
+  background-color: white;
+  transform: rotate(5deg);
+}
+
+.wild-beasts h1 {
+  width: 300px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  font-size: 1.4em;
+  
+  
+}
+
+.wild-beasts p {
+  width: 300px;
+  line-height: 1.42em;
+  margin-bottom: 1em;
+}
+
+.wild-beasts iframe {
+  position: absolute;
+  top: 50px;
+  right: 15px;
+}
+
+.wild-beasts .wanderlust {
+  position: absolute;
+  top: 225px;
+  right: 15px;
+}

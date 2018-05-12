@@ -1,0 +1,124 @@
+body {
+		background-color: #F0E68C;
+}
+header{
+	font-weight: bold;
+	font-size: 2em;
+	margin-left: 10%;
+}
+h1{
+	font-weight: bold;
+	font-size: 1.5em;
+	position: absolute;
+	margin-left: 9%;
+	margin-top: 1%;
+}
+h2{
+	position: absolute;
+	margin-left: 9%;
+	margin-top: 4%;
+}
+.hoofdkader{
+
+	background-color: white;
+	width: 90%;
+	height: 53em;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 3%;
+	
+}
+.kader1{
+	width: 20%;
+	height: 40em;
+	margin-top: 6%;
+	margin-left: 10%;
+	border: 1px solid #000;
+	display:block;
+	float:left;
+
+}
+h3{
+	font-size: 3em;
+	font-weight: bold;
+	margin-left: 6.5%;
+}
+h4{
+	font-size: 3em;
+	font-weight: bold;
+	margin-left: 6.5%;
+}
+h5{
+	font-size: 3em;
+	font-weight: bold;
+	margin-left: 6.5%;
+}
+.foto1{
+	margin-left: 6.5%;
+	margin-top: 1%;
+}
+.foto2{
+	margin-left: 6.5%;
+	margin-top: 1%;
+}
+.foto3{
+	margin-left: 6.5%;
+	margin-top: 1%;
+}
+p{
+
+	margin-left: 8%;
+	margin-top: 20%;
+}
+.delete{
+	float: right;
+}
+.prijs{
+	margin-top: 20%;
+	margin-left: 10%;
+}
+h6{
+	margin-top: 45%;
+	margin-left: 10%;
+}
+.login{
+	margin-top: -47%;
+	margin-left: 75%;
+}
+.Nav{
+	margin-left: 87%;
+	margin-top: -0.9%;
+}
+.Nav li {display: inline;padding-left: 10px;}
+.onzichtbaar {display: none;}
+.kader1:nth-of-type(3) {margin-right: 0;}
+
+img {
+  max-width: 100%;
+}
+
+label {
+  display: block;
+  padding-bottom: 10px;
+  padding-top: 15px;
+}
+
+input {
+  width: 300px;
+  font-size: 1em;
+}
+
+.toev, button {
+  display: block;
+  margin-top: 15px;
+  padding: 5px;
+  font-size: 1em;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+  .delete {
+  padding: 0 2px 0 2px;
+  margin-top:0;
+  
+}

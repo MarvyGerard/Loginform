@@ -1,0 +1,82 @@
+.kader {
+	width: 550px;
+	height: 550px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 10px solid black;
+	box-shadow: 6px 6px 3px #dddddd;
+}
+
+.bovenaanrechts .geel
+{
+	width: 215px;
+	height: 165px;
+	border-bottom: 10px solid black;
+}
+
+.bovenaanrechts .blauw
+{
+	width: 215px;
+	height: 90px;
+	border-top: 10px solid black;
+	margin-top: 65px;
+}
+
+.rood {background: #FE0000;}
+.geel {background: #FFFF00;}
+.blauw {background: #0000B2;}
+
+.bovenaanrechts 
+{
+	float: right;
+	height: 340px;
+	width: 215px;
+	border-left: 10px solid black;
+	border-bottom: 10px solid black;
+}
+
+.bovenaanlinks 
+{
+	float: left;
+	height: 340px;
+	width: 170px;
+	border-bottom: 10px solid black;
+}
+
+.bovenaanmidden {
+	float: left;
+	height: 340px;
+	width: 145px;
+	border-bottom: 10px solid black;
+	border-left: 10px solid black;
+}
+
+.bovenaanmidden .box {
+	height: 120px;
+	width: 145px;
+	border-bottom: 10px solid black;
+}
+
+.bovenaanlinks .box:nth-child(1) {
+    width: 85px;
+    height: 90px;
+    float: right;
+    border-left: 10px solid black;
+    border-bottom: 10px solid black;
+}
+
+.bovenaanlinks .box:nth-child(2) {
+    width: 85px;
+    height: 240px;
+    float: right;
+    border-left: 10px solid black;
+}
+
+.onderaanlinks 
+{
+	float: left;
+	height: 200px;
+	width: 240px;
+	border-right: 10px solid black;
+}

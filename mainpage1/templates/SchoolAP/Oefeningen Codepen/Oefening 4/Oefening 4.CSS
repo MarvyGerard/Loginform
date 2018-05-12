@@ -1,0 +1,22 @@
+body {
+  background: orange;
+  font-family: helvetica;
+  line-height: 1.4em;
+}
+
+h1, ol {
+  background: white;
+  width: 160px;
+  margin: 50px auto 0 auto;
+  padding: 15px 25px 15px 35px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+ol {
+  margin-top: 0;
+  list-style-type: decimal;
+}

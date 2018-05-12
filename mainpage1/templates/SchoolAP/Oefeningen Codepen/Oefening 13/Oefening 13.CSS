@@ -1,0 +1,54 @@
+body { 
+	width: 830px;
+	margin: 150px auto;
+	border: 1px dotted black;
+	padding: 10px;}
+
+div { 
+	font-size: 500%;
+	padding: 50px 0;
+	text-align: center;
+	width: 200px;
+	height: 100px;
+	}
+
+.vierkant1 {
+	background: teal;
+	float: right;
+	}
+
+.vierkant1:hover {
+	background: plum;
+	color: #fff;
+	}
+
+.vierkant2 {
+	background: plum;
+	float: right;
+	margin-right: 10px;
+	}
+
+.vierkant2:hover {
+	background: lawngreen;
+	color: #fff;
+	}
+
+.vierkant3 {
+	background: lawngreen;
+	float: right;
+	margin-right: 10px
+	}
+
+.vierkant3:hover {
+	background: lightseagreen;
+	color: #fff;
+	}
+
+.vierkant4 {
+	background: lightseagreen;
+	}
+
+.vierkant4:hover {
+	background: teal;
+	color: #fff;
+	}

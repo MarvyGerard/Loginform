@@ -1,0 +1,36 @@
+.kader-voor-foto {
+  width: 500px;
+  height: 370px;
+  margin: 50px auto;
+  background-image: url(http://bit.ly/1x0fPqi);
+  border: 12px solid yellow;
+}
+
+.kader-voor-foto p {
+  font-family: "helvetica neue";
+  color: yellow;
+  text-align: center;
+  margin-top: 100px;
+  font-size: 3.6em;
+  line-height: 1.45em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+a {
+  display: block;
+  background-image: url(http://bit.ly/1x0fPqi);
+  width: 500px;
+  height: 270px;
+  margin: 100px auto;
+  border: 12px solid lightgreen;
+  font-family: "helvetica neue";
+  color: lightgreen;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 3.6em;
+  line-height: 1.45em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+}

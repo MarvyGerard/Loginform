@@ -1,0 +1,17 @@
+p {
+  font-family: helvetica;
+  margin: 50px auto;
+  text-align: center;
+  border: 10px dashed black;
+  width: 275px;
+  padding: 15px;
+  color: red;
+  font-size: 3.3em;
+  font-weight: bold;
+}
+
+p:hover {
+  color: black;
+  border: 10px dashed red;
+}
+

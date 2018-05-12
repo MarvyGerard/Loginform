@@ -1,0 +1,41 @@
+body {
+  font-family: "helvetica neue";
+  color: white;
+}
+
+.kader1, .kader2, .kader3, .kader4, .kader5 {
+  width: 200px;
+  height: 175px;
+  margin-left: 50px;
+  text-align: center;
+  font-size: 9em;
+  padding-top: 25px;
+}
+
+.kader1 {
+  background-color: #69C0B8;
+  position: relative;
+  top: 50px;}
+
+.kader2 {
+  background-color: #E6344C;
+  position: relative;
+  left: 150px;
+  z-index: 10;}
+
+.kader3 {
+  background-color: #986399;
+  position: relative;
+  left: 300px;
+  bottom: 350px;}
+
+.kader4 {
+  background-color: yellow;
+  position: relative;
+  bottom: 250px;}
+
+.kader5 {
+  background-color: #003E79;
+  position: relative;
+  bottom: 450px;
+  left: 300px;}

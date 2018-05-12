@@ -1,0 +1,33 @@
+body {
+  background: antiquewhite;
+  font-family: garamond;  
+}
+
+.kader {
+  background: white;
+  width: 75%;
+  margin: 2em auto 2em auto;
+  padding: 3em;
+}
+
+h1 {
+  font-size: 1.6em;
+  margin-bottom: 1.4em;
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 2.4em;
+  font-size: 1.1em;
+  line-height: 1.3em;
+}
+
+.fotorechts {
+  float: right;
+  padding-left: 1em;
+  margin-top: 0.4em;}
+
+.fotolinks {
+  float: left;
+  padding-right: 1em;
+  margin-top: 0.4em;}

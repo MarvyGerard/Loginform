@@ -1,0 +1,46 @@
+body {
+  background: url('http://idonteveninternet.com/wp-content/uploads/2014/08/double-rainbow-wide-wallpaper-339755.jpg');
+}
+
+.kader {
+  background: white;
+  margin: 50px auto;
+  width: 30%;
+  padding: 2em;
+}
+
+nav a {
+  display: block;
+  text-align: center;
+  margin-bottom: 0.4em;
+  color: black;
+  padding: 0.4em;
+} 
+
+nav a:first-child { 
+	background: red;
+	}
+
+nav a:nth-child(2) { 
+	background: orange;
+	}
+
+nav a:nth-child(3) { 
+	background: yellow;
+	}
+
+nav a:nth-child(4) { 
+	background: green;
+	}
+
+nav a:nth-child(5) { 
+	background: blue;
+	}
+
+nav a:nth-child(6) { 
+	background: indigo;
+	}
+
+nav a:nth-child(7) { 
+	background: violet;
+	}

@@ -1,0 +1,164 @@
+body {
+  background: url(http://bit.ly/1x5UCdH)center center fixed no-repeat;
+  background-size: cover;
+}
+
+.kader {
+  width: 80%;
+  margin: 4em auto;
+  font-family: "helvetica neue";
+  background: RGBA(255, 255, 255, 0.92);
+  padding: 1.2em; 
+}
+
+h1 {
+  font-size: 1.3em;
+  margin-bottom: 0.8em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+
+p {
+  line-height: 1.3em;
+  margin-bottom: 0.6em;
+  clear: both;
+}
+
+.kaderlinks {
+  width: 74%;
+  float: left;
+}
+
+.kaderrechts {
+  width: 20%;
+  float: right;
+}
+
+.kaderlinks li {
+  overflow:hidden;
+  width: 31%;
+  float: left;
+  height: 7em;
+  margin-right: 3%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  background-color: black;
+}
+
+.kaderlinks li:first-child {
+  margin-left: 1%;
+}
+
+.kaderlinks li:last-child {
+  margin-right: 0%;
+}
+
+h3 {
+  font-size: 0.9em;
+  margin-bottom: 0.5em;
+  margin-top: 1.4em;
+  font-weight: bold;
+}
+
+.kaderrechts p {
+  margin-top: 0.4em;
+  font-size: 0.7em;
+}
+
+img {max-width: 100%;}
+.clear {clear:both;}
+
+@media (max-width: 1000px) {
+  
+  .kader {
+    width: 85%;
+    margin: 3em auto;
+  }
+}
+
+@media (max-width: 900px) {
+  
+  .kader {
+    width: 90%;
+    margin: 3em auto;
+  }
+  
+  .kaderlinks li {
+    height: 6.7em;}
+}
+
+@media (max-width: 820px) {
+    
+  .kaderlinks li {
+    height: 6em;}
+}
+
+@media (max-width: 730px) {
+    
+  .kaderlinks li {
+    height: 6em;}
+}
+
+@media (max-width: 680px) {
+  
+  .kader {
+    width: 85%;
+    margin: 2em auto;
+  }
+    
+  .kaderlinks {
+    float: none;
+    width: auto;
+  }
+  
+  .kaderlinks li {
+    height: 6em;
+  }
+  
+  .kaderrechts {
+    float: none;
+    width: auto;
+  }
+  
+  h2 {
+  font-size: 1.3em;
+  margin-bottom: 0.8em;
+  margin-top: 1em;
+}
+  
+  .kaderrechts img {
+    width: 65%;
+  }
+  
+  .kaderrechts ul {
+    text-align: center;
+  }
+  
+  .kaderlinks li {
+  overflow:hidden;
+  width: 75%;
+  float: none;
+  height: auto;
+  margin: 1em auto;
+  background: transparent;
+}
+  
+  .kaderlinks li:first-child {
+    margin: 2em auto;
+}
+  
+  .kaderlinks li:last-child {
+    margin: 2em auto;
+}
+  
+}
+
+@media (max-width: 500px) {
+  .kaderlinks li {width: 100%;}
+  .kaderrechts img {width: 100%;}
+}

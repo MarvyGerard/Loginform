@@ -1,0 +1,31 @@
+body {
+  width: 764px;
+  margin: 50px auto;  
+}
+
+.linkerkolom, .rechterkolom, .footer {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.linkerkolom {
+  width: 350px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.rechterkolom {
+  width: 350px;
+  float: right;
+}
+
+.footer {
+  clear: both;
+}
+
+h1 {
+   font-size: 1.8em;
+   margin-bottom: 1em; 
+   font-weight: bold;
+}

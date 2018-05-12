@@ -1,0 +1,30 @@
+body {
+		background-image: url(http://p1.pichost.me/i/19/1424169.jpg);
+}
+
+
+header{
+
+	font-size: 2.5em;
+	margin-left: 46%;
+}
+
+
+.kadereen{
+
+	margin-left: 24%;
+	margin-top: 5%;
+	border: 1px solid #000;
+	display:block;
+	float:left;
+}
+
+.kadertwee{
+
+	margin-left: 75%;
+	margin-top: -2%;
+	border: 1px solid #000;
+	display:block;
+	float:left;
+
+}

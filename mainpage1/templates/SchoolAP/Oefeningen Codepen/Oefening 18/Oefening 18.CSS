@@ -1,0 +1,69 @@
+body {
+	background: white;
+	font-size: 90%;
+	font-family: 'Roboto', sans-serif;
+}
+
+#yellowwrapper {
+	height: 700px;
+	background: lightgoldenrodyellow;
+	padding: 100px 0 0 0;
+}
+
+h2 {
+	text-transform: uppercase;
+	color: #4C4951;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.lighter h2 {color: #eeeeee;}
+
+p {
+	font-size: 0.87em;
+	line-height: 3em;
+	font-weight: 300;
+}
+
+.box p:first-child {
+	margin-top: 45px;
+}
+
+#yellow {
+	width: 800px;
+  height: 600px;
+	overflow: hidden;
+	margin: 0 auto 0 auto;
+	border-top: 1px solid #4C4951;
+	border-left: 1px solid #4C4951;
+	box-shadow: 2px 2px 4px #4C4951;
+}
+
+.box {
+	width: 25%;
+	height: 33.39%;
+	float:left;
+	text-align: center;
+	border-right: 1px solid #4C4951;
+	border-bottom: 1px solid #4C4951;
+	box-sizing: border-box;
+}
+
+.box:hover {
+	color: #4C4951;
+	transition-duration: 2s;}
+
+.lighter:hover {color: #eeeeee;}
+
+.peachpuff {background: peachpuff;color: peachpuff;}
+.papayawhip {background: papayawhip;color: papayawhip;}
+.moccasin {background: moccasin;color: moccasin;}
+.goldenrod {background: goldenrod;color: goldenrod;}
+.gold {background: gold;color: gold;}
+.khaki {background: khaki;color: khaki;}
+.lemonchiffon {background: lemonchiffon;color: lemonchiffon;}
+.palegoldenrod {background: palegoldenrod;color: palegoldenrod;}
+.darkkhaki {background: darkkhaki;color:darkkhaki;}
+.yellow {background: yellow;color: yellow;}
+.lightgoldenrodyellow {background: lightgoldenrodyellow;color: lightgoldenrodyellow;}
+.lightyellow {background: lightyellow; color: lightyellow;}

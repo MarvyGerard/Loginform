@@ -1,0 +1,61 @@
+.binnen, .buiten, .footer {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.links {
+  width: 434px;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.rechts {
+  width: 434px;
+  float: right;
+  margin-bottom: 20px;
+}
+
+.binnen {
+  width: 180px;
+  float: left;
+}
+
+.buiten {
+  width: 180px;
+  float: right;
+}
+
+.linkerkolom {
+  width: 280px;
+}
+
+.middenkolom {
+  width: 280px;
+  float: right;
+  margin-bottom: 20px;
+ }
+
+.rechterkolom {
+  width: 280px;
+  float: right;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.footer {
+  clear: both;
+}
+
+body {
+  width: 900px;
+  margin: 50px auto;
+  font-family: helvetica;
+  font-size: 90%;
+  line-height: 1.35em;
+}
+
+h1 {
+   font-size: 1.8em;
+   margin-bottom: 1em; 
+   font-weight: bold;
+}

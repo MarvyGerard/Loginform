@@ -1,0 +1,73 @@
+body {
+		background-image: url(http://csitirunelveli.org/file/2014/04/website_background.jpg);
+}
+
+
+header{
+
+font-size: 2.5em;
+margin-left: 46%;
+}
+.kadereen{
+position: absolute;
+margin-left: 24%;
+margin-top: 5%;
+border: 1px solid #000;
+display:block;
+float:left;
+}
+.kadertwee{
+position: absolute;
+margin-left: 65%;
+margin-top: 5%;
+border: 1px solid #000;
+display:block;
+float:left;
+}
+.fizz{
+position: absolute;
+border: 1px solid #000;
+display:block;
+float:left;
+}
+.fizzbuzz{
+
+position: absolute;
+margin-top: 10%;
+margin-left: 25%;
+border: 1px solid #000;
+display:block;
+float:left;
+}
+#slideshow {
+position:absolute;
+margin-left: 58%;
+margin-top: 15%;
+height:30%;
+width:45%;
+}
+#slideshow .slide {
+position:absolute;
+top:0;
+left:0;
+z-index:8;
+opacity:0.0;
+}
+#slideshow div.active {
+z-index:10;
+opacity:1.0;
+}
+#slideshow div.last-active {
+z-index:9;
+}
+.selectors{
+
+font-size: 1.5em;
+position: absolute;
+margin-left: 60%;
+margin-top: 35%;
+border: 1px solid #000;
+display: block;
+
+	
+}

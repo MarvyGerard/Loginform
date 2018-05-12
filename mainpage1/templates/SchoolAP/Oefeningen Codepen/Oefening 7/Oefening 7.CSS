@@ -1,0 +1,46 @@
+body {
+  font-family: "helvetica neue";
+}
+
+h1 {
+  font-size: 1.3em;
+  margin-bottom: 0.6em;
+  color: green;
+}
+
+p {
+  line-height: 1.4em;
+}
+
+.content {
+  border: 1px solid red;
+  padding: 0.4em;
+  width: 300px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 1.8em;  
+}
+
+ol {
+  list-style-type: lower-alpha;
+  padding-left: 1.8em; 
+  margin-bottom: 1em; 
+}
+
+ol li {
+  color: brown;
+}
+
+ol li .number {
+  color: blue;
+}
+
+ul li {
+  color: red;
+}
+
+ul li .number {
+  color: orange;
+}

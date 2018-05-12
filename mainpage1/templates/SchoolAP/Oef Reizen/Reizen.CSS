@@ -1,0 +1,118 @@
+body {
+		background-color: #F0E68C;
+}
+header{
+	font-weight: bold;
+	font-size: 2em;
+	margin-left: 5.5%;
+}
+h1{
+	font-weight: bold;
+	font-size: 1.5em;
+	position: absolute;
+	margin-left: 5%;
+	margin-top: 1%;
+}
+h2{
+	position: absolute;
+	margin-left: 5%;
+	margin-top: 4%;
+}
+.hoofdkader{
+
+	background-color: white;
+	width: 90%;
+	height: 53em;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 3%;
+	
+
+}
+.kader1{
+	position: absolute;
+	width: 20%;
+	height: 40em;
+	margin-top: 6%;
+	margin-left: 5%;
+	border: 1px solid #000;
+	display:block;
+	float:left;
+
+}
+.kader2{
+	position: absolute;
+	width: 20%;
+	height: 40em;
+	margin-top: 6%;
+	margin-left: 35%;
+	border: 1px solid #000;
+	display:block;
+	float:left;
+}
+.kader3{
+	position: absolute;
+	width: 20%;
+	height: 40em;
+	margin-top: 6%;
+	margin-left: 65%;
+	border: 1px solid #000;
+	display:block;
+	float:left;
+}
+h3{
+	font-size: 3em;
+	font-weight: bold;
+	margin-left: 4.5%;
+}
+h4{
+	font-size: 3em;
+	font-weight: bold;
+	margin-left: 4.5%;
+}
+h5{
+	font-size: 3em;
+	font-weight: bold;
+	margin-left: 4.5%;
+}
+.foto1{
+	margin-left: 4.5%;
+	margin-top: 1%;
+}
+.foto2{
+	margin-left: 4.5%;
+	margin-top: 1%;
+}
+.foto3{
+	margin-left: 4.5%;
+	margin-top: 1%;
+}
+p{
+
+	margin-left: 18%;
+	margin-top: 25%;
+}
+.delete{
+	float: right;
+}
+.prijs{
+	margin-top: 3%;
+	margin-left: 18%;
+}
+h6{
+	margin-top: 45%;
+	margin-left: 5.5%;
+}
+.login{
+	margin-top: -47%;
+	margin-left: 75%;
+}
+.Nav{
+	margin-left: 87%;
+	margin-top: -0.9%;
+}
+span{
+
+	color: blue;
+	text-decoration: underline;
+}
